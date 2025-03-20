@@ -1,4 +1,4 @@
-# Not-Netflix
+# Not-Notfux
 
 A streaming site look-alike, or clone. 
 
