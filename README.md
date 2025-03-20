@@ -1,4 +1,4 @@
-# Not-Notfux
+# A-Streaming-Site
 
 A streaming site look-alike, or clone. 
 
