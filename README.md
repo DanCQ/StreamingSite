@@ -1,4 +1,4 @@
-# A Streaming Site
+# Streaming Site
 
 A streaming site look-alike, or clone. 
 
