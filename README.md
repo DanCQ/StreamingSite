@@ -2,7 +2,7 @@
 
 A streaming site look-alike, or clone. 
 
-<a href="https://dancq.github.io/AStreamingSite">A Streaming Site</a>
+<a href="https://astreamingsite.pages.dev">A Streaming Site</a>
 
 For fun, training, and practice. </br>
 I wanted to play around with this idea with my own preferred content, and code design.
