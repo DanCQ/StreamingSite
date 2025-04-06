@@ -1,8 +1,8 @@
-# Streaming Site
+# A Streaming Site
 
 A streaming site look-alike, or clone. 
 
-<a href="https://dancq.github.io/streamingsite/">StreamingSite</a>
+<a href="https://dancq.github.io/astreamingsite/">StreamingSite</a>
 
 For fun, training, and practice. </br>
 I wanted to play around with this idea with my own preferred content, and code design.
